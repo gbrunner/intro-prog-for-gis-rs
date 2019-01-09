@@ -12,14 +12,14 @@
   ```mylist = ["Athens", "Barcelona", "Cairo", "Florence", "Helsinki"]```
   
   Determine the results of the following:
-    a) ```len(mylist)```
-    b) ```mylist[2]```
-    c) ```mylist[1:]```
-    d) ```mylist[-1]```
-    e) ```mylist.index("Cairo")```
-    f) ```mylist.pop(1)```
-    g) ```mylist.sort(reverse = True)```
-    h) ```mylist.append("Berlin")```
+    1 ```len(mylist)```
+    2 ```mylist[2]```
+    3 ```mylist[1:]```
+    4 ```mylist[-1]```
+    5 ```mylist.index("Cairo")```
+    6 ```mylist.pop(1)```
+    7 ```mylist.sort(reverse = True)```
+    8 ```mylist.append("Berlin")```
   These operations are all to be performed on the original list—that is, not
   as a sequence of operations. Try to determine the answer manually first,
   and then check your result by running the code.
