@@ -32,13 +32,26 @@ Determine the following:
   - ```int(LCS_ID) + 10 == 17248```
   - ```LCS_ID != 17238```
   
-3. (From page 72-73 of Tateosian)
+3. (From page 72-73 of Tateosian) The list variable valled **census** is as follows:
+
+```census = ['4', '3', '79', '1', '66', '9', '1']```
+
+Determing the following:
+- ```len(census)```
+- ```census.insert(0,2)```
+- ```census.append(2)```
+- ```census.remove('1')```
+- ```census = '0'.join(census)```
+- ```census.pop(3)```
+- ```census.count('1')```
+- ```census.sort()```
+- ```census.reverse()```
   
 4. Consider the following list:
   
-  ```mylist = ["Athens", "Barcelona", "Cairo", "Florence", "Helsinki"]```
+```mylist = ["Athens", "Barcelona", "Cairo", "Florence", "Helsinki"]```
   
-  Determine the results of the following:
+Determine the results of the following:
   - ```len(mylist)```
   - ```mylist[2]```
   - ```mylist[1:]```
@@ -48,7 +61,7 @@ Determine the following:
   - ```mylist.sort(reverse = True)```
   - ```mylist.append("Berlin")```
     
-  Theese operations are all to be performed on the original list—that is, not
-  as a sequence of operations. Try to determine the answer manually first,
-  and then check your result by running the code.
+These operations are all to be performed on the original list—that is, not
+as a sequence of operations. Try to determine the answer manually first,
+and then check your result by running the code.
   
