@@ -1,9 +1,9 @@
-# Homework
+# Homework Exercises
 
 - Exercice03.pdf from Zandbergen
-- Exercise04.pdf from Zandbergen
+- Exercise04.pdf from Zandbergen (Ignore the **Challenge** Problems)
 
-- Problems
+# Homework Problems
   1. (From page 54-55 of Tateosian) Consider the following variable called ```happyCow```
   
   ```happyCow = 'meadows.shp'```
