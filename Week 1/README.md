@@ -4,7 +4,7 @@
 - Exercise04.pdf from Zandbergen
 
 - Problems
-  1. Consider the following variable called ```happyCow```
+  1. (From page 54-55 of Tateosian) Consider the following variable called ```happyCow```
   
   ```happyCow = 'meadows.shp'```
   
@@ -20,7 +20,7 @@
     - ```happyCow[5]```
     - ```'W' in happyCow```
   
-  2. Determine if each statement is ```True``` or ```False``` using the variable ```LCS_ID = '0017238'```
+  2. (From page 54-55 of Tateosian) Determine if each statement is ```True``` or ```False``` using the variable ```LCS_ID = '0017238'```
     - ```17 in LCS_ID``` 
     - ```LCS_ID.isdigit()```
     - ```LCS_ID.lstrip('0') == '17238'```
@@ -32,7 +32,7 @@
     - ```int(LCS_ID) + 10 == 17248```
     - ```LCS_ID != 17238```
   
-  3. TEST
+  3. (From page 72-73 of Tateosian)
   
   4. Consider the following list:
   
