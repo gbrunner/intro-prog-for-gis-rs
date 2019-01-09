@@ -4,7 +4,7 @@
 - Exercise04.pdf from Zandbergen
 
 - Problems
-  - Consider the following variable called ```happyCow```
+  1. Consider the following variable called ```happyCow```
   
   ```happyCow = 'meadows.shp'```
   
@@ -20,9 +20,11 @@
     - ```happyCow[5]```
     - ```'W' in happyCow```
   
-  -
-  -
-  - Consider the following list:
+  2.TEST
+  
+  3. TEST
+  
+  4. Consider the following list:
   
   ```mylist = ["Athens", "Barcelona", "Cairo", "Florence", "Helsinki"]```
   
