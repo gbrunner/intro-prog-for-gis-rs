@@ -1,7 +1,7 @@
 # Homework Exercises
 
 - Exercice03.pdf from Zandbergen
-- Exercise04.pdf from Zandbergen (Ignore the **Challenge** Problems)
+- Exercise04.pdf from Zandbergen. Ignore the **Challenge** Problems, but please submit the Python files (path.py, branching.py, whileloop.py, forloop.py, range.py, and breakloop.py) that you create throughout the exercise.
 
 # Homework Problems
 1. (From page 54-55 of Tateosian) Consider the following variable called ```happyCow```
