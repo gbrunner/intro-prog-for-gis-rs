@@ -12,6 +12,7 @@
 2. Write a script to take one required argument, the full path and name to a GIS file (shapefile, Feature Class, Raster, etc.) and return the filetype of the output. If the filetype is a shapefile or feature class, return the geometry type (Polygon, Polyline, or Point). If the input file is not something that ArcGIS can identify, return the statement "FileType is Unknown."
 
 Example of the input and output:
+
 | Input | Output |
 |-------|--------|
 | C:/gispy/park.shp | Polygon |
