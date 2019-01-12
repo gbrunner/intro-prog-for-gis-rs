@@ -13,6 +13,7 @@
 
 Example of the input and output:
 | Input | Output |
+|---------|--------|
 | C:/gispy/park.shp | Polygon |
 | C:/gispy/tree.tif | TIFF |
 | C:/gispy/spreedsheet.xlsx | FileType is Unknown |
