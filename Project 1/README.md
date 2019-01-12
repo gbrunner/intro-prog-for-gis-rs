@@ -22,7 +22,7 @@ Example of the input and output:
 
 3. Unzip project1.gdb.zip. In the geodatabase in that folder, there are 5 months worth of crime points. I want you to write a Python script that looks at each month, determines how many crimes occurred per month (using **GetCount_management**), and writes a crime report text file that lists the number of crimes per month in St. Louis. A sample output text file is attached as crime_report.txt. Your results should look similar.
 
-4. **For an A+** Name the following script **shape2kml.py**. It takes two steps to convert a shapefile to KML using ArcGIS.
+4. Name the following script **shape2kml.py**. It takes two steps to convert a shapefile to KML using ArcGIS.
   - First, make a feature layer from the input shapefile with Make Feature Layer (Data Management) tool.
   - Second, Use the Layer to KML (Conversion) tool to convert the layer to KML.
  
