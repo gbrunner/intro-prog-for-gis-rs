@@ -16,5 +16,5 @@
   10. Click OK to accept the changes and close the dialog box.
   11. Repeat steps 2 - 5.
   12. Follow-up questions:
-    - Explain the effect of changing 'Scratch Workspace' Environment Settings in the example.
-    - Write a line of Python code that, in a script, would achieve the same effect as step 9.
+      - Explain the effect of changing 'Scratch Workspace' Environment Settings in the example.
+      - Write a line of Python code that, in a script, would achieve the same effect as step 9.
