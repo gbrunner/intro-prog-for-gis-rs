@@ -1,7 +1,7 @@
-# Classwork\Homework Exercise
+# Classwork Exercise
 - Complete **Exercise02.pdf** from Zandbergen
 
-# Homework Problem
+# Homework Problems
 - Complete the **Challenge 1** on page 30 of **Exercise02.pdf**
 - (From Page 93 of Tateosian) Try the following steps to experiment with environment settings and answer the questions that follow:
   1. Launch ArcCatalog (or ArcMap).
