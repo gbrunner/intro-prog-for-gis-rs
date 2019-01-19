@@ -6,4 +6,4 @@
 - Please complete any 3 of the 4 **Challenge** exercises on pages 22 and 23 and submit your answers as individual Python (.py) scripts.
  
 # Challenge (if the homework is too easy!)
-- **freq.py** - Write a Python script to solve the following problem. The land cover types in 'park.shp' include 'woods', 'orchards', and 'other.' Park rangers would like a table including the frequencies of polygons with each cover type. Write a script to perform Frequency (Analysis) on the 'COVER' field that will generate this table. Name the output 'COVER_freq.dbf'.
+- **freq.py** - Write a Python script to solve the following problem. The input data can be found in **ch06.zip**. The land cover types in 'park.shp' include 'woods', 'orchards', and 'other.' Park rangers would like a table including the frequencies of polygons with each cover type. Write a script to perform Frequency (Analysis) on the 'COVER' field that will generate this table. Name the output 'COVER_freq.dbf'.
