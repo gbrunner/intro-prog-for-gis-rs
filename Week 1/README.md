@@ -21,11 +21,11 @@ Determine the following:
   - ```'W' in happyCow```
   
 2. (From page 54-55 of Tateosian) Determine if each statement is ```True``` or ```False``` using the variable ```LCS_ID = '0017238'```
-  - ```17 in LCS_ID``` 
+  - ```'17' in LCS_ID``` 
   - ```LCS_ID.isdigit()```
   - ```LCS_ID.lstrip('0') == '17238'```
   - ```LCS_ID.zfill(10) == '10101010'```
-  - ```LCS_ID + '10' = 17248```
+  - ```LCS_ID + '10' == 17248```
   - ```LCS_ID[6] == '3'```
   - ```len(LCS_ID) == 7```
   - ```LCS_ID[0:7] == '0017238'```
