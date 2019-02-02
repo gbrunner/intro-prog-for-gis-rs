@@ -1,3 +1,9 @@
+# Lecture
+1. Review HW 1
+2. review HW 2
+3. Arcpy demo
+4. ArcGIS Pro Python Window Demo
+
 # In Class Exercise
 
 - Please complete **Exercise05.pdf**. Please submit the scripts that you create through the exercise (my_clip.py, centroid.py, distance.py). 
