@@ -1,7 +1,7 @@
 # Lecture
 1. Review HW 1
-2. review HW 2
-3. Arcpy demo
+2. Review HW 2
+3. Arcpy Demo
 4. ArcGIS Pro Python Window Demo
 
 # In Class Exercise
