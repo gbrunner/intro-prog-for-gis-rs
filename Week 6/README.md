@@ -9,6 +9,7 @@
 5. Examples:
 - Raading geomtries
 - Writing geometries
+- Geometry operations
 6. In class assignment:
 - Chapter 8 of Zandbergen and Challenges from Chapter 7 & 8
 # In Class Exercise
