@@ -1,4 +1,5 @@
 # Lecture
+- Talk about Project 1 and Homework 5. Are students ready?
 - Review Homework Solutions
 - Reading and Writing to Files
 - Cursors - Slides
