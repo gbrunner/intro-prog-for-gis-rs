@@ -4,6 +4,7 @@
   - Chapter 8
 - Creating a Script Tool
 ### Break
+- GitHub account
 - ArcGIS Online
 - Final Project Proposals
 - Homework 7
