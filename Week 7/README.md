@@ -1,3 +1,11 @@
+# Lecture
+- Homework
+  - Chapter 7
+  - Chapter 8
+- Creating a Script Tool
+### Break
+- ArcGIS Online
+
 # In Class Exercise
 - Complete **Exercise13.pdf**. Submit any scripts that you create throughout the exercise.
 # Homework
