@@ -3,6 +3,8 @@
   - Chapter 7
   - Chapter 8
 - Creating a Script Tool
+## DON'T USE THE CRIME REPORT EXAMPLE IN ARCMAP 10.4!!! DON'T ASSIGN THAT AS A PROBLEM EITHER.
+
 ### Break
 - GitHub account
 - ArcGIS Online
