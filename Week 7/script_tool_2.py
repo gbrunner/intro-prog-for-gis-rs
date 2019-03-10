@@ -18,12 +18,12 @@ arcpy.AddMessage("Creating File GDB")
 ##Create table from csv file
 arcpy.AddMessage(gdb_name)
 arcpy.AddMessage("Converting CSV to GDB Table")
-arcpy.TableToTable_conversion(input_table, "in_memory", "temp", "", "", "")
+arcpy.TableToTable_conversion(input_table, gdb_name, "temp", "", "", "")
 
 ##Make XY events layer
 events_layer = "crime_points"
 arcpy.AddMessage("Make FC Layer")
-arcpy.MakeXYEventLayer_management("in_memory/temp", "xcoord", "ycoord", events_layer, "", "")
+arcpy.MakeXYEventLayer_management(os.path.join(gdb_name, "temp"), "xcoord", "ycoord", events_layer, "", "")
 
 ##Output events layer to feature class
 arcpy.AddMessage("FC to FC")
