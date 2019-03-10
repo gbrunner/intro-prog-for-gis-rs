@@ -15,4 +15,4 @@
 # In Class Exercise
 - Complete **Exercise13.pdf**. Submit any scripts that you create throughout the exercise.
 # Homework
-- Complete **Challenge 1** in **Exercise13.pdf**
+- Complete **Challenge 1** in **Exercise13.pdf**. Please submit the script and the toolbox for Challenge 1.
