@@ -13,3 +13,6 @@
   - Visual
   - Good for interacting with WebGIS
   - ```arcpy.GetInstallInfo()``` -> ArcGIS Pro
+
+# Assignment
+Please complete the **Exercise09.pdf** and both challenge problems.
