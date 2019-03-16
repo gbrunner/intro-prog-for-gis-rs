@@ -14,5 +14,5 @@
   - Good for interacting with WebGIS
   - ```arcpy.GetInstallInfo()``` -> ArcGIS Pro
 
-# Assignment
+# In Class Exercise and Homework
 Please complete the **Exercise09.pdf** and both challenge problems.
