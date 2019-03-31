@@ -5,7 +5,7 @@
 4. Build Mosaic Dataset
 
 # Assignment
-In the Week 11 Content folder, you will see:
+In the Week 9 Content folder, you will see:
 - ArcMap Exercise 1
 - Exercise 2 - Scripting the Mosaic Dataset Creation
 - ArcMap Exercise 3
