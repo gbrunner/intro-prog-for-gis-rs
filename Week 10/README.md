@@ -1,4 +1,4 @@
-Lecture
+## Lecture
 1. Review Homework
 2. LAS Dataset in ArcGIS Pro
   - http://msdis.missouri.edu/data/lidar/
