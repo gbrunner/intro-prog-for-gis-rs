@@ -13,11 +13,10 @@
       /* color: #008000; */
     }
 
-    .italic-sans-serif-text {
+    .italic-sans-serif {
       font-style: italic;
       font-family: sans-serif;
     }
-
   </style>
 </head>
 
@@ -28,39 +27,42 @@
     Hello, World! (I'm an "h1" element).
   </h1>
 
-  <h2 class="green">
-    Hello, World! (I'm an "h2" element with a CSS class.)
-  </h2>
+  <p class="green">
+    Hello, World! (I'm a "p" element with a CSS class.)
+  </p>
 
   <div>
     This is a "div" element.
   </div>
 
-  <div class="green italic-sans-serif-text">
+  <div class="green italic-sans-serif">
     This is a "div" with several CSS classes.
   </div>
 
-  <a href="http://www.slu.edu/peoplefinder/index.php?query=brunner#FacStaff" target="_blank">
+  <a href="https://www.slu.edu/arts-and-sciences/earth-atmospheric-sciences/" target="_blank">
     This is a link that will open in another window.
   </a>
 
   <div>
-    Here is a "button" element inside of a "div" element.
-    <button id="coolButtonID">
-      Increase the clickCount variable.
+    Here is a "button" element followed by a "p" element, both of which are inside of a "div" element.
+
+    <button id="coolButton">
+      Increase the "clickCount" JavaScript variable.
     </button>
+
+    <p id="clickCountDisplay"></p>
   </div>
 
   <script>
     // this is a JavaScript comment
 
+    var coolButtonReference = document.getElementById('coolButton');
+
+    var clickCountDisplayReference = document.getElementById('clickCountDisplay');
+
     var clickCount = 0;
 
-    var aRandomPhrase = 'I really want a slice of pizza.';
-
-    console.log(aRandomPhrase);
-
-    var coolButton = document.getElementById('coolButtonID');
+    clickCountDisplayReference.innerText = clickCount;
 
     coolButton.addEventListener('click', function() {
       console.log('Hey, I got clicked!');
@@ -70,6 +72,8 @@
       // clickCount += 1;
 
       console.log('clickCount: ', clickCount);
+
+      clickCountDisplayReference.innerText = clickCount;
     });
   </script>
 </body>
