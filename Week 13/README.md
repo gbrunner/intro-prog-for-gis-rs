@@ -1,14 +1,20 @@
 # Web Mapping Development Intro
 
-April 2018
+April 2019
 
-Jacob Wasilkowski, [https://jwasilgeo.github.io](https://jwasilgeo.github.io)
+Jacob Wasilkowski
+
+[Twitter @JWasilGeo](https://twitter.com/JWasilGeo)
+
+[https://jwasilgeo.github.io](https://jwasilgeo.github.io)
 
 ## Intro to HTML, CSS, and JavaScript
 
 What's the purpose of each and how do they work together?
 
-Developers are lazy (_supposedly!_). Here's a link to save us some time: [https://developer.mozilla.org/en-US/docs/Web](https://developer.mozilla.org/en-US/docs/Web)
+READ :clap: THE :clap: DOCS :clap:
+
+[https://developer.mozilla.org/en-US/docs/Web](https://developer.mozilla.org/en-US/docs/Web)
 
 ## JavaScript: syntax intro
 
@@ -89,7 +95,7 @@ Obligatory JS meme
 
 ## HTML and CSS and JavaScript
 
-- **Hands on:** create index.html page, insert `<script>` tag, and play with [Chrome developer tools](https://developer.chrome.com/devtools) and the `console.log();` method
+**Exercise:** create `index.html` page, insert `<script>` tag, and try out the [Chrome developer tools](https://developer.chrome.com/devtools).
 
   ```html
   <!DOCTYPE html>
@@ -107,11 +113,10 @@ Obligatory JS meme
         /* color: #008000; */
       }
 
-      .italic-sans-serif-text {
+      .italic-sans-serif {
         font-style: italic;
         font-family: sans-serif;
       }
-
     </style>
   </head>
 
@@ -122,39 +127,42 @@ Obligatory JS meme
       Hello, World! (I'm an "h1" element).
     </h1>
 
-    <h2 class="green">
-      Hello, World! (I'm an "h2" element with a CSS class.)
-    </h2>
+    <p class="green">
+      Hello, World! (I'm a "p" element with a CSS class.)
+    </p>
 
     <div>
       This is a "div" element.
     </div>
 
-    <div class="green italic-sans-serif-text">
+    <div class="green italic-sans-serif">
       This is a "div" with several CSS classes.
     </div>
 
-    <a href="http://www.slu.edu/peoplefinder/index.php?query=brunner#FacStaff" target="_blank">
+    <a href="https://www.slu.edu/arts-and-sciences/earth-atmospheric-sciences/" target="_blank">
       This is a link that will open in another window.
     </a>
 
     <div>
-      Here is a "button" element inside of a "div" element.
-      <button id="coolButtonID">
-        Increase the clickCount variable.
+      Here is a "button" element followed by a "p" element, both of which are inside of a "div" element.
+
+      <button id="coolButton">
+        Increase the "clickCount" JavaScript variable.
       </button>
+
+      <p id="clickCountDisplay"></p>
     </div>
 
     <script>
       // this is a JavaScript comment
 
+      var coolButtonReference = document.getElementById('coolButton');
+
+      var clickCountDisplayReference = document.getElementById('clickCountDisplay');
+
       var clickCount = 0;
 
-      var aRandomPhrase = 'I really want a slice of pizza.';
-
-      console.log(aRandomPhrase);
-
-      var coolButton = document.getElementById('coolButtonID');
+      clickCountDisplayReference.innerText = clickCount;
 
       coolButton.addEventListener('click', function() {
         console.log('Hey, I got clicked!');
@@ -164,6 +172,8 @@ Obligatory JS meme
         // clickCount += 1;
 
         console.log('clickCount: ', clickCount);
+
+        clickCountDisplayReference.innerText = clickCount;
       });
     </script>
   </body>
@@ -173,23 +183,23 @@ Obligatory JS meme
 
 ## Let's get mappy in the browser
 
-- Intros to [ArcGIS API for JavaScript](https://js.arcgis.com) and [LeafletJS](http://leafletjs.com/)
+- Intros to [ArcGIS API for JavaScript](https://js.arcgis.com) and [LeafletJS](https://leafletjs.com/)
 
 - Getting started with [JS Bin](https://jsbin.com)
 
   - Why? Your browser will block functionality if browsing files directly from hard drive. You must use a web server. JS Bin is interactive and easy to experiment with, just like Python Notebooks.
 
-- Leaflet challenge:
+- **Leaflet exercise**
 
   1. Copy and paste the contents of `leaflet-demo.html` into a new JS Bin.
 
   2. Set the map's initial position to be centered at and zoomed to St. Louis.
 
-  3. Change the basemap to a [different Esri basemap](http://esri.github.io/esri-leaflet/api-reference/layers/basemap-layer.html).
+  3. Change the basemap to a [different Esri basemap](https://esri.github.io/esri-leaflet/api-reference/layers/basemap-layer.html).
 
-  4. Add a ["marker" positioned at SLU](http://leafletjs.com/examples/quick-start/#markers-circles-and-polygons) onto the map.
+  4. Add a ["marker" positioned at SLU](https://leafletjs.com/examples/quick-start/#markers-circles-and-polygons) onto the map.
 
-- Esri challenge:
+- **Esri exercise**
 
   1. Copy and paste the contents of `esri-demo.html` into a new JS Bin.
 
@@ -205,17 +215,17 @@ GitHub can host your [project website](https://help.github.com/categories/github
 
 - [ArcGIS Geodev Hackerlabs](https://github.com/Esri/geodev-hackerlabs)
 
-- [LeafletJS](http://leafletjs.com/) (and optionally the [Esri-Leaflet plugin](http://esri.github.io/esri-leaflet/))
+- [LeafletJS](https://leafletjs.com/) (and optionally the [Esri-Leaflet plugin](https://esri.github.io/esri-leaflet/))
 
 - ["JavaScript: The Good Parts", Douglas Crockford (2008)](http://lib.slu.edu/)
   - A must-read which will go by quickly! It is available at SLU Libraries...you don't really have a good excuse to avoid this book.
 
-- [JavaScript for Cats](http://jsforcats.com/) :cat2: :cat: :cat2:
+- [The Modern JavaScript Tutorial](https://javascript.info/)
+
+- :cat2: :cat: :cat2: [JavaScript for Cats](http://jsforcats.com/) :cat2: :cat: :cat2:
 
 - [Mozilla Dev Network: JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 - [Mozilla Dev Network: A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
-
-- [The Modern JavaScript Tutorial](https://javascript.info/)
 
 - [DevDocs.io](https://devdocs.io/)
