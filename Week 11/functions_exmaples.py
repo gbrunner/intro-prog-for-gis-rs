@@ -21,14 +21,27 @@ def firstFunction():
     'a simple function returning a string'
     return 'My first function'
 
-firstFunction()
+#this_string = firstFunction()
+
+#print(this_string)
+
 
 def secondFunction(number):
     'this function multiplies numbers by 3'
+
     return number * 3
+
+
 
 def thirdFunction(number, multiplier=3):
     'this multiplies two numbers. If a second number is not specified, it '
     'multiplies the number by 3'
     if type(number) == type(1) or type(number) == type(1.0):
         return number * multiplier
+
+value = thirdFunction('Greg', 5)
+value1 = firstFunction()
+print(value1)
+print(value)
+
+

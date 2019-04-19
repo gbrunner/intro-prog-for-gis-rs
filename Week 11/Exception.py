@@ -2,7 +2,7 @@ import os
 import arcpy
 from arcpy import env
 
-input_table = r"C:\Answers\January2018.CSV"
+input_table = r"C:\Answers\fakelocation\January2018.CSV"
 output_fc =  r"C:\Answers\crime.gdb\January2018_Crime"
 spRef = arcpy.SpatialReference("NAD 1983 StatePlane Missouri East FIPS 2401 (US Feet)")
 
