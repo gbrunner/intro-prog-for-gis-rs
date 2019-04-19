@@ -211,6 +211,8 @@ GitHub can host your [project website](https://help.github.com/categories/github
 
 ## Resources
 
+- ["Maps in JS" presentation by Gavin Rehkemper](https://github.com/gavinr/presentations/tree/master/src/maps-in-js)
+
 - [ArcGIS API for JavaScript](https://js.arcgis.com)
 
 - [ArcGIS Geodev Hackerlabs](https://github.com/Esri/geodev-hackerlabs)
