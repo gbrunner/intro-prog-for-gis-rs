@@ -13,3 +13,7 @@ Please complete the following exercises. You do not need to submit anything, but
 
 
 # Homework Exercise
+
+
+# Helpful links
+- [St. Louis Open GIS Data](https://www.stlouis-mo.gov/data/formats/format.cfm?id=21)
