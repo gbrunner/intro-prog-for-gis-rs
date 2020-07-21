@@ -15,7 +15,9 @@ Please complete the following exercises. You do not need to submit anything, but
 Following from today's lecture, I want you to perform the same analysis in two different ways:
 1. In the ArcGIS Pro Python Window, find the number of St. Louis City blocks that are found in the blocks shapefile (blocks.shp) using [get count](https://pro.arcgis.com/en/pro-app/tool-reference/data-management/get-count.htm). Then, create a [minimum bounding geometry](https://pro.arcgis.com/en/pro-app/tool-reference/data-management/minimum-bounding-geometry.htm) polygon of the same blocks shapefile. Add that polygon to the map, take a screenshot, and submit the screenshot.
 2. Using an ArcGIS Notebook, perform the same analysis. First, unzip the **blocks.zip**. Upload all of the files from blocks.zip to the ArcGIS Notebooks **Files** so that it looks similar to this:
+
 ![](https://raw.githubusercontent.com/gbrunner/intro-prog-for-gis-rs/master/images/blocks_files.png)
+
 In the ArcGIS Notebook, find the number of St. Louis City blocks that are found in the blocks shapefile (blocks.shp) using [get count](https://pro.arcgis.com/en/pro-app/tool-reference/data-management/get-count.htm). Then, create a [minimum bounding geometry](https://pro.arcgis.com/en/pro-app/tool-reference/data-management/minimum-bounding-geometry.htm) polygon of the same blocks shapefile and add the minimum bounding geometry to a map in the notebook. Submit a link to the notebook.
 
 # Helpful links
