@@ -1,6 +1,6 @@
 # Reading
 - [Beginner's guide to Python in ArcGIS Pro, Part 1: Why?](https://www.esri.com/arcgis-blog/products/arcgis-pro/uncategorized/beginners-guide-to-python-in-arcgis-pro-part-1-why/)
-- [Beginner's guide to Python in ArcGIS Pro, Part 1: Why?](https://www.esri.com/arcgis-blog/products/arcgis-pro/analytics/beginners-guide-to-python-in-arcgis-pro-part-2-how/)
+- [Beginner’s guide to Python in ArcGIS Pro, Part 2: How?](https://www.esri.com/arcgis-blog/products/arcgis-pro/analytics/beginners-guide-to-python-in-arcgis-pro-part-2-how/)
 - Read [Chapters 1 and Chapters 4 of Python Scripting for ArcGIS Pro](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=384&moduleID=12)
 
 # Homework Exercises
