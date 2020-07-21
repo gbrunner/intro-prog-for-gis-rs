@@ -1,6 +1,7 @@
 # Reading
-Read [Chapters 1 and Chapters 4 of Python Scripting for ArcGIS Pro](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=384&moduleID=12)
-
+- [Beginner's guide to Python in ArcGIS Pro, Part 1: Why?](https://www.esri.com/arcgis-blog/products/arcgis-pro/uncategorized/beginners-guide-to-python-in-arcgis-pro-part-1-why/)
+- [Beginner's guide to Python in ArcGIS Pro, Part 1: Why?](https://www.esri.com/arcgis-blog/products/arcgis-pro/analytics/beginners-guide-to-python-in-arcgis-pro-part-2-how/)
+- Read [Chapters 1 and Chapters 4 of Python Scripting for ArcGIS Pro](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=384&moduleID=12)
 
 # Homework Exercises
 Complete the [Hello, Notebook!](https://www.arcgis.com/home/item.html?id=282e3eb54e844e25b2687d66f59b91be) excercise. After you complete it, add another map object and a different dataset to the map. Save the Notebook and share the link to the Notebook here. I will be able to see your notebook even if you don't explicitly share it with me in ArcGIS Online becuase I am an administrator in the ArcGIS Online organization.
