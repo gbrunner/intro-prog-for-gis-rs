@@ -1,20 +1,15 @@
-# Classwork Exercise
-- Complete **Exercise02.pdf** from Zandbergen
+# Reading
+Please read Chapters 2 and 3 of [Python Scripting for ArcGIS Pro](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=384&moduleID=12). These two chapters cover Python IDEs and Geoprocessing in ArcGIS Pro. This will set a foundation for much of what we do.
 
-# Homework Problems
-- Complete the **Challenge 1** on page 30 of **Exercise02.pdf**
-- (From Page 93 of Tateosian) For this problem, I am assuming that you have taken the folder and data in **ch05.zip** and placed it in C:/gispy. If you have placed it in another folder, use that path as the 'Input Features' path and 'Scratch Workspace' path. Try the following steps to experiment with environment settings and answer the questions that follow:
-  1. Launch ArcCatalog (or ArcMap).
-  2. Search for the Buffer (Analysis) tool in the search window.
-  3. Double click on the tool link to launch the tool dialog.
-  4. Drag C:/gispy/data/ch05/park.shp into the 'Input Features' parameter box.
-  5. Observe the 'Output Feature Class' path.
-  6. Cancel the tool.
-  7. Open the environment settings dialog (Geoprocessing -> Environments...).
-  8. Click on Workspacecs to expand this category.
-  9. Set 'Scratch Workspace' to C:/gispy/scratch'.
-  10. Click OK to accept the changes and close the dialog box.
-  11. Repeat steps 2 - 5.
-  12. Follow-up questions:
-      - Explain the effect of changing 'Scratch Workspace' Environment Settings in the example.
-      - Write a line of Python code that, in a script, would achieve the same effect as step 9.
+# Classwork Exercise
+Please complete the following exercises. You do not need to submit anything, but it is recommended that you complete these.
+- [Beginner's guide to Python in ArcGIS Pro, Part 3: Tutorial](https://www.esri.com/arcgis-blog/products/arcgis-pro/uncategorized/beginners-guide-to-python-in-arcgis-pro-part-3-tutorial/)
+- Please run through the ArcGIS Notebook sample for [Forest-based Classification: Predict asthma rates](https://slustl.maps.arcgis.com/home/item.html?id=56f418e2fd4f4030917d048fd87c078f). This is both an exelent example of how to work with ```arcpy``` in ArcGIS Notebooks and using GIS to perform predictive analysis.
+
+# Homework Questions
+1. What does IDE stand for?
+2. What is the extension of a Python script file?
+3. What is the extention of a Jupyter notebook (or ArcGIS Notebook) file? **Hint:** Download an ArcGIS Notebook.
+
+
+# Homework Exercise
