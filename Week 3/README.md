@@ -9,6 +9,7 @@ This week we will work with
 - af_dem_30s.tif (and other DEMs)
 - Features.gdb
 - OSM.gdb
+- Monthly_Pre-Existing_Condition_Insurance_Plan_Enrollment__State_by_State.csv
 
 # Lecture Notebooks
 
