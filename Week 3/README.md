@@ -14,8 +14,8 @@ We will begin by setting up our Jupyter Notebook using ArcGIS Pro. Then, we will
 - coordinates.txt
 
 # Lecture Notebooks
-- unit_3_lesson_1_exploring_spatial_data.ipynb
-- unit_3_lesson_2_text_files_and_csvs.ipynb
+- [unit_3_lesson_1_exploring_spatial_data.ipynb](https://github.com/gbrunner/intro-prog-for-gis-rs/blob/master/Week%203/unit_3_lesson_1_exploring_spatial_data.ipynb)
+- [unit_3_lesson_2_text_files_and_csvs.ipynb](https://github.com/gbrunner/intro-prog-for-gis-rs/blob/master/Week%203/unit_3_lesson_2_text_files_and_csvs.ipynb)
 
 # In-Class Exercises
 - (**OLD**) Please complete **Exercise05.pdf**. Please submit the scripts that you create through the exercise (my_clip.py, centroid.py, distance.py). 
