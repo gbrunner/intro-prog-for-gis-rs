@@ -1,3 +1,21 @@
+# Reading
+- [Chapter 6 of Python Scripting for ArcGIS Pro](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=384&moduleID=12)
+- [Chapter 8.7 and 8.8 of Python Scripting for ArcGIS Pro](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=384&moduleID=12)
+
+# Lecture
+This week we will work with 
+
+# Data
+- af_dem_30s.tif (and other DEMs)
+- Features.gdb
+- OSM.gdb
+
+# Lecture Notebooks
+
+# Homework Exercises
+
+# Homework Problems
+
 # Lecture
 1. Review HW 1
 2. Review HW 2
