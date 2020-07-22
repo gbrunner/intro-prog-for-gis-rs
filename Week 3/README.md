@@ -10,6 +10,7 @@ This week we will work with
 - Features.gdb
 - OSM.gdb
 - Monthly_Pre-Existing_Condition_Insurance_Plan_Enrollment__State_by_State.csv
+- coordinates.txt
 
 # Lecture Notebooks
 
