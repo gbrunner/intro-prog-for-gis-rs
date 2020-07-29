@@ -7,7 +7,9 @@
 Lecture notebooks from this week can be found in the [GIS 4090\5090 Unit 1 Notebooks](https://slustl.maps.arcgis.com/home/group.html?id=7ec8ff1c45d94eb28c6c6ddaadcf0333#overview) group.
 
 # Homework Exercises
-Complete the [Hello, Notebook!](https://www.arcgis.com/home/item.html?id=282e3eb54e844e25b2687d66f59b91be) excercise. After you complete it, add another map object and a different dataset to the map. Save the Notebook and share the link to the Notebook here. I will be able to see your notebook even if you don't explicitly share it with me in ArcGIS Online becuase I am an administrator in the ArcGIS Online organization.
+1. Complete the [Hello, Notebook!](https://www.arcgis.com/home/item.html?id=282e3eb54e844e25b2687d66f59b91be) excercise. After you complete it, add another map object and a different dataset to the map. Save the Notebook and share the link to the Notebook here. I will be able to see your notebook even if you don't explicitly share it with me in ArcGIS Online becuase I am an administrator in the ArcGIS Online organization.
+2. Please complete [Python Scripting for ArcGIS Pro Exercise 1](https://learngis.maps.arcgis.com/home/item.html?id=450cc6119d7a45849e7290461c5bdde3). This should take no more than 15 minutes.
+3. 
 
 # Homework Problems
 Submit a word document, text file, or ArcGIS Notebook with answers to the following questions:
