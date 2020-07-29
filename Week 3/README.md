@@ -1,17 +1,24 @@
 # Reading
 - [Using the Jupyter Notebook Environment](https://developers.arcgis.com/python/guide/using-the-jupyter-notebook-environment/)
 - [Chapter 5 of Python Scripting for ArcGIS Pro](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=384&moduleID=12)
+- [Chapter 6 of Python Scripting for ArcGIS Pro](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=384&moduleID=12)
 
 
 # Lecture
-We will begin by setting up our Jupyter Notebook using ArcGIS Pro. Then, we will work with our local jupyter notebook to understand geoprocessing with Python following from Chapter 5 of Python Scripting for ArcGIS Pro.
+We will begin by setting up our Jupyter Notebook using ArcGIS Pro. Then, we will work with our local jupyter notebook to understand geoprocessing with Python following from Chapter 5 of Python Scripting for ArcGIS Pro and also how to explore data following from Chapter 6 of Python Scripting for ArcGIS Pro.
 
 # Data
+- af_dem_30s.tif (and other DEMs)
+- Features.gdb
+- OSM.gdb
+- Monthly_Pre-Existing_Condition_Insurance_Plan_Enrollment__State_by_State.csv
+- coordinates.txt
 
 
 # Lecture Notebooks
 - Getting setup with Jupyter for ArcGIS Pro.
 - I need a notebook that follows chapter 5.
+- [unit_3_lesson_1_exploring_spatial_data.ipynb](https://github.com/gbrunner/intro-prog-for-gis-rs/blob/master/Week%203/unit_3_lesson_1_exploring_spatial_data.ipynb)
 
 # In-Class Exercises
 - Please complete [Python Scripting Exercise 05](https://learngis.maps.arcgis.com/home/item.html?id=d3618832b89844dda4c0b97c44ccf151). You can download the data from [here](https://learngis.maps.arcgis.com/home/item.html?id=a944af0becbf47df98336a9e4881a6b8). Please submit the scripts that you create through the exercise. If you are doing the exercise in a Jupyter Notebook, feel free to submit the notebook instead of the script.
