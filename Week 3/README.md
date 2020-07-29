@@ -21,7 +21,8 @@ We will begin by setting up our Jupyter Notebook using ArcGIS Pro. Then, we will
 - [unit_3_lesson_1_exploring_spatial_data.ipynb](https://github.com/gbrunner/intro-prog-for-gis-rs/blob/master/Week%203/unit_3_lesson_1_exploring_spatial_data.ipynb)
 
 # In-Class Exercises
-- Please complete [Python Scripting Exercise 05](https://learngis.maps.arcgis.com/home/item.html?id=d3618832b89844dda4c0b97c44ccf151). You can download the data from [here](https://learngis.maps.arcgis.com/home/item.html?id=a944af0becbf47df98336a9e4881a6b8). Please submit the scripts that you create through the exercise. If you are doing the exercise in a Jupyter Notebook, feel free to submit the notebook instead of the script.
+- Please complete [Python Scripting for ArcGIS Pro Exercise 05](https://learngis.maps.arcgis.com/home/item.html?id=d3618832b89844dda4c0b97c44ccf151). You can download the data from [here](https://learngis.maps.arcgis.com/home/item.html?id=a944af0becbf47df98336a9e4881a6b8). Please submit the scripts that you create through the exercise. If you are doing the exercise in a Jupyter Notebook, feel free to submit the notebook instead of the script.
+- Please complete [Python Scripting for ArcGIS Pro Exercise 06](https://learngis.maps.arcgis.com/home/item.html?id=cef0aa5df9c54993a6c1cb1dfec5f553). You can download the data from [here](https://learngis.maps.arcgis.com/home/item.html?id=3df07f29a0844d62af4338c52a40fda9). If you are doing the exercise in a Jupyter Notebook, feel free to submit the notebook instead of the script.
 
 # Homework Questions:
 1. What are some typical environment variables that get set in a script?
