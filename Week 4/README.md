@@ -18,13 +18,12 @@ We will begin by setting up our Jupyter Notebook using ArcGIS Pro. Then, we will
 - [unit_3_lesson_2_text_files_and_csvs.ipynb](https://github.com/gbrunner/intro-prog-for-gis-rs/blob/master/Week%203/unit_3_lesson_2_text_files_and_csvs.ipynb)
 
 # In-Class Exercises
-- (**OLD**) Please complete **Exercise05.pdf**. Please submit the scripts that you create through the exercise (my_clip.py, centroid.py, distance.py). 
+- Please complete [Exercise 06 from Python Scripting for ArcGIS Pro](https://learngis.maps.arcgis.com/home/item.html?id=cef0aa5df9c54993a6c1cb1dfec5f553). You can download the data from [here](https://learngis.maps.arcgis.com/home/item.html?id=3df07f29a0844d62af4338c52a40fda9).
 
 # Homework Problems
-- Please complete any 3 of the 4 **Challenge** exercises on pages 22 and 23 and submit your answers as individual Python (.py) scripts.
+
  
-# Challenge (if the homework is too easy!)
-- **freq.py** - Write a Python script to solve the following problem. The input data can be found in **ch06.zip**. The land cover types in 'park.shp' include 'woods', 'orchards', and 'other.' Park rangers would like a table including the frequencies of polygons with each cover type. Write a script to perform Frequency (Analysis) on the 'COVER' field that will generate this table. Name the output 'COVER_freq.dbf'.
+
 
 
 
