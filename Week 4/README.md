@@ -1,10 +1,9 @@
 # Reading
-- [Using the Jupyter Notebook Environment](https://developers.arcgis.com/python/guide/using-the-jupyter-notebook-environment/)
 - [Chapter 6 of Python Scripting for ArcGIS Pro](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=384&moduleID=12)
 - [Chapter 8.7 and 8.8 of Python Scripting for ArcGIS Pro](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=384&moduleID=12)
 
 # Lecture
-We will begin by setting up our Jupyter Notebook using ArcGIS Pro. Then, we will work with our local jupyter notebook to understand how to describe data and work with text files and CSVs.
+In this lecture, we will learn how to describe data and work with text files and CSVs.
 
 # Data
 - af_dem_30s.tif (and other DEMs)
