@@ -6,7 +6,7 @@ Lecture notebooks can be found in the [GIS 4090\5090 Unit 2 Notebooks](https://s
 
 # Classwork Exercise
 Please complete the following exercises. You do not need to submit anything, but it is recommended that you complete these.
-- Please Complete [Python Scripting Exercise 3](https://learngis.maps.arcgis.com/home/item.html?id=3978b52f1e5847c69ef7eaded85780b2). [You can find the data here](https://learngis.maps.arcgis.com/home/item.html?id=d7c05cf515c046c2bedacb2e8e24722c).
+- Please Complete [Python Scripting Exercise 3](https://learngis.maps.arcgis.com/home/item.html?id=3978b52f1e5847c69ef7eaded85780b2). You can find the data [here](https://learngis.maps.arcgis.com/home/item.html?id=d7c05cf515c046c2bedacb2e8e24722c).
 - [Beginner's guide to Python in ArcGIS Pro, Part 3: Tutorial](https://www.esri.com/arcgis-blog/products/arcgis-pro/uncategorized/beginners-guide-to-python-in-arcgis-pro-part-3-tutorial/)
 - (**Optional**)Please run through the ArcGIS Notebook sample for [Forest-based Classification: Predict asthma rates](https://slustl.maps.arcgis.com/home/item.html?id=56f418e2fd4f4030917d048fd87c078f). This is both an exelent example of how to work with ```arcpy``` in ArcGIS Notebooks and using GIS to perform predictive analysis.
 
