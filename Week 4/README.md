@@ -23,7 +23,9 @@ We will begin this lecture by setting up PyCharm as our IDE. Then, we will learn
 2. Please complete [Python Scripting for ArcGIS Pro Exercise 08](https://learngis.maps.arcgis.com/home/item.html?id=0cad298208984ae4b3c3f7718195c174). The data can be found [here](https://learngis.maps.arcgis.com/home/item.html?id=ea906d3a31d54824a1930806a0cfb59e)
 
 # Homework Problems
-There will be no homework problem this week. Rather, Project 1 will be assigned instead.
+Please complete both of these problems. These problems are relevant and helpful to understanding Project 1.
+1. Write a script that creates a 15,000-meter buffer around features in the airports.shp feature class classified as an airport ( based on the FEATUREfield ) and a 7,500-meter buffer around features classified as a seaplane base. The results should be two separate feature classes, one for each airport type.
+2. Write a script that adds a text field to the roads.shp feature class called FERRY and populates this field with YES and NO values, depending on the value of the FEATURE field.
  
 
 
