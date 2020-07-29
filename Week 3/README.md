@@ -16,6 +16,11 @@ We will begin by setting up our Jupyter Notebook using ArcGIS Pro. Then, we will
 # In-Class Exercises
 - Please complete [Python Scripting Exercise 05](https://learngis.maps.arcgis.com/home/item.html?id=d3618832b89844dda4c0b97c44ccf151). You can download the data from [here](https://learngis.maps.arcgis.com/home/item.html?id=a944af0becbf47df98336a9e4881a6b8). Please submit the scripts that you create through the exercise. If you are doing the exercise in a Jupyter Notebook, feel free to submit the notebook instead of the script.
 
+# Homework Questions:
+1. What are some typical environment variables that get set in a script?
+2. What is the difference between required and optional parameters of geoprocessing tools and how can this impact writing a script?
+3. In the [```numpy.zeros```](https://numpy.org/doc/stable/reference/generated/numpy.zeros.html) function, what are the required paratmers and what are the optional parameters?
+
 # Homework Problems
 - Please complete any 3 of the 4 **Challenge** exercises on pages 22 and 23 and submit your answers as individual Python (.py) scripts.
  
