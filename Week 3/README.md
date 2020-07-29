@@ -30,7 +30,8 @@ We will begin by setting up our Jupyter Notebook using ArcGIS Pro. Then, we will
 3. In the [```numpy.zeros```](https://numpy.org/doc/stable/reference/generated/numpy.zeros.html) function, what are the required paratmers and what are the optional parameters?
 
 # Homework Problems
-- Please complete any 3 of the 4 **Challenge** exercises on pages 22 and 23 and submit your answers as individual Python (.py) scripts.
+1. Using the OSM.gdb as input, write a script that reads all the feature classes in a workspace and prints the name of each feature class and the geometry type of that feature class in the following format, for example: *roads is a polyline feature class*
+2. Uding the OSM.gdb as input, write a script that reads all the feature classes in a personal or file geodatabase and copies only the polygon feature classes to a new file geodatabase. You can assume there are no feature datasets in the exist-ing data, and the feature classes can keep the same name.
  
 # Challenge (if the homework is too easy!)
 - **freq.py** - Write a Python script to solve the following problem. The input data can be found in **ch06.zip**. The land cover types in 'park.shp' include 'woods', 'orchards', and 'other.' Park rangers would like a table including the frequencies of polygons with each cover type. Write a script to perform Frequency (Analysis) on the 'COVER' field that will generate this table. Name the output 'COVER_freq.dbf'.
