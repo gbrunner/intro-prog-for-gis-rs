@@ -1,6 +1,9 @@
 # Reading
 Please read Chapters 2 and 3 of [Python Scripting for ArcGIS Pro](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=384&moduleID=12). These two chapters cover Python IDEs and Geoprocessing in ArcGIS Pro. This will set a foundation for much of what we do.
 
+# Lecture Slides
+- Lecture_1_Geoprocessing_and_Python_Window.pptx
+
 # Lecture Notebooks
 Lecture notebooks can be found in the [GIS 4090\5090 Unit 2 Notebooks](https://slustl.maps.arcgis.com/home/group.html?id=724c1bfb085843debf8f1020b3654045#overview) group.
 
