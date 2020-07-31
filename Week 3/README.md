@@ -17,7 +17,7 @@ We will begin by setting up our Jupyter Notebook using ArcGIS Pro. Then, we will
 
 # Lecture Notebooks
 - Getting setup with Jupyter for ArcGIS Pro.
-- I need a notebook that follows chapter 5.
+- [unit_3_lesson_1_environments_and_coordinates_systems.ipynb](https://github.com/gbrunner/intro-prog-for-gis-rs/blob/master/Week%203/unit_3_lesson_1_environments_and_coordinates_systems.ipynb)
 - [unit_3_lesson_1_exploring_spatial_data.ipynb](https://github.com/gbrunner/intro-prog-for-gis-rs/blob/master/Week%203/unit_3_lesson_1_exploring_spatial_data.ipynb)
 
 # In-Class Exercises
