@@ -28,3 +28,18 @@ Be sure to use the map algebra expressions of the ```arcpy.sa``` module.
 
 **Challenge 2**
 Write a script that copies all the rasters in a workspace to a new file geo-database. Use the data from **Exercise 10** that you used for the **In-class** exercise.
+
+
+## Caveat Emptor for Challenge 2
+---------------------------------------------------------------------------
+AttributeError                            Traceback (most recent call last)
+c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Conversion Tools.tbx#RasterToGeodatabase_conversion.InitializeParameters.py in <module>
+
+AttributeError: 'ToolValidator' object has no attribute 'isLicensed'
+
+---------------------------------------------------------------------------
+AttributeError                            Traceback (most recent call last)
+c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Conversion Tools.tbx#RasterToGeodatabase_conversion.InitializeParameters.py in <module>
+
+AttributeError: 'ToolValidator' object has no attribute 'isLicensed'
+
