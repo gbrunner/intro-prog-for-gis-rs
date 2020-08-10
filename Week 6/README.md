@@ -2,6 +2,7 @@
 [AWS re:Invent 2017: How Esri Optimizes Massive Image Archives for Analytics in the Cloud](https://www.youtube.com/watch?reload=9&v=U486YxlDoeM)
 
 # Reading
+[Chapter 10 of Python Scripting for ArcGIS Pro](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=384&moduleID=0)
 
 # Lecture
 1. Prject 1 Answers?
