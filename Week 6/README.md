@@ -6,12 +6,25 @@
 
 # Lecture
 Slides on rasters followed by three Notebooks, in this order:
-1. rasters_with_arcpy.ipynb
-2. rasters_with_numpy.ipynb
-3. rasters_in_the_cloud.ipynb
+1. unit_6_lesson_1_working_with_rasters_arcpy.ipynb
+2. unit_6_lesson_2_working_with_rasters_numpy.ipynb
+3. unit_6_lesson_3_working_with_rasters_in_the_cloud.ipynb
+
+# Data
+- DEMS.zip from previous weeks
+- Check data in Azure and AWS before lecture
 
 # In Class Exercise
 - Please complete [Exercise 10 from Python Scripting for ArcGIS Pro](https://www.arcgis.com/home/item.html?id=1372abc4fb0c4ff0a7c66e8d9c869038). The data can be found [here on ArcGIS Online](https://www.arcgis.com/home/item.html?id=862c63f5a50e4a29bb237369a9854838).
 
-# Homework
-- Complete 2 of the 3 **Challenge** Problems. For a 25-point bonus, complete all 3.
+
+# Homework (Don't forget to include the data)
+**Challenge 1**
+Create a script that determines what areas meet the following conditions:
+- Moderate slope: between 5 and 20 degrees
+- Southerly aspect: between 150 and 270 degrees
+- Forested: land cover types of 41, 42, or 43
+Be sure to use the map algebra expressions of the ```arcpy.sa``` module.
+
+**Challenge 2**
+Write a script that copies all the rasters in a workspace to a new file geo-database. Use the data from **Exercise 10** that you used for the **In-class** exercise.
