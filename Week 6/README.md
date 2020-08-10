@@ -1,3 +1,8 @@
+# Video
+[AWS re:Invent 2017: How Esri Optimizes Massive Image Archives for Analytics in the Cloud](https://www.youtube.com/watch?reload=9&v=U486YxlDoeM)
+
+# Reading
+
 # Lecture
 1. Prject 1 Answers?
 2. Final Project Proposal
