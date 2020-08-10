@@ -5,20 +5,13 @@
 [Chapter 10 of Python Scripting for ArcGIS Pro](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=384&moduleID=0)
 
 # Lecture
-1. Prject 1 Answers?
-2. Final Project Proposal
-3. Slides: Practical Coding Advice
-- Print Statements
-- Try-Except
-- Debugger
-4. Slides: Geometries
-5. Examples:
-- Raading geomtries
-- Writing geometries
-- Geometry operations
-6. In class assignment:
-- Chapter 8 of Zandbergen and Challenges from Chapter 7 & 8
+Slides on rasters followed by three Notebooks, in this order:
+1. rasters_with_arcpy.ipynb
+2. rasters_with_numpy.ipynb
+3. rasters_in_the_cloud.ipynb
+
 # In Class Exercise
-- Complete **Exercise08.pdf**. Submit any scripts that you create throughout the exercise.
+- Please complete [Exercise 10 from Python Scripting for ArcGIS Pro](https://www.arcgis.com/home/item.html?id=1372abc4fb0c4ff0a7c66e8d9c869038). The data can be found [here on ArcGIS Online](https://www.arcgis.com/home/item.html?id=862c63f5a50e4a29bb237369a9854838).
+
 # Homework
 - Complete 2 of the 3 **Challenge** Problems. For a 25-point bonus, complete all 3.
