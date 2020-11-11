@@ -1,7 +1,5 @@
 # Web Mapping Development Intro
 
-April 2019
-
 Jacob Wasilkowski
 
 [Twitter @JWasilGeo](https://twitter.com/JWasilGeo)
@@ -20,40 +18,43 @@ READ :clap: THE :clap: DOCS :clap:
 
 ```javascript
 // variable declaration
-var myString;
+let myString;
 
 // and then later assignment
 myString = 'sample string';
 
 // variable declaration and assignment at same time
-var myNumber = 90210;
+let myNumber = 90210;
 
 console.log(myNumber - 90209); // simple math
 
 // strings
-var question = 'Is pizza awesome?';
-var answer = 'Without a doubt.';
-var qAndA = question + ' ' + answer; // concatenate strings
+let question = 'Is pizza awesome?';
+let answer = 'Without a doubt.';
+let qAndA = question + ' ' + answer; // concatenate strings
 
 console.log(qAndA);
+
+// format with template strings
+console.log(`${question} ${answer}`);
 
 // booleans
 console.log(1.5 === 1.5); // true
 console.log(1 + 1 === 3); // false
 
 // arrays
-var myArray = [1, 2, 3, 'x', 'y', 'z'];
+let myArray = [1, 2, 3, 'x', 'y', 'z'];
 
 console.log(myArray[3]);
 
 myArray.push(100);
 
-var stringFromArray = myArray.join(' and ');
+let stringFromArray = myArray.join(' and ');
 
 console.log(stringFromArray);
 
 // functions
-var sumThreeNumbers = function(a, b, c) {
+let sumThreeNumbers = function(a, b, c) {
   // do something with the function arguments
   console.log(a, b, c);
   // return the sum
@@ -61,7 +62,7 @@ var sumThreeNumbers = function(a, b, c) {
 };
 
 // objects
-var myObject = {
+let myObject = {
   name: 'Greg',
   totalCats: 15,
   faveLanguages: ['Python', 'JavaScript'],
@@ -76,7 +77,7 @@ console.log(myObject.name);
 console.log(myObject.tellMeSomethingInteresting());
 
 // conditional statements
-var whatHappened;
+let whatHappened;
 if (1 === 2) {
   whatHappened = 'bad math';
 } else if (true && false) {
@@ -127,6 +128,14 @@ Obligatory JS meme
       Hello, World! (I'm an "h1" element).
     </h1>
 
+    <h2>
+      Subtitle (I'm an "h2" element).
+    </h2>
+
+    <p>
+      Hello, World! (I'm a "p" element.)
+    </p>
+
     <p class="green">
       Hello, World! (I'm a "p" element with a CSS class.)
     </p>
@@ -143,9 +152,11 @@ Obligatory JS meme
       This is a link that will open in another window.
     </a>
 
-    <div>
-      Here is a "button" element followed by a "p" element, both of which are inside of a "div" element.
+    <p>
+      Next are a "button" element followed by a "p" element, both of which are inside of a "div" element.
+    </p>
 
+    <div>
       <button id="coolButton">
         Increase the "clickCount" JavaScript variable.
       </button>
@@ -156,15 +167,15 @@ Obligatory JS meme
     <script>
       // this is a JavaScript comment
 
-      var coolButtonReference = document.getElementById('coolButton');
+      let coolButtonReference = document.querySelector('#coolButton');
 
-      var clickCountDisplayReference = document.getElementById('clickCountDisplay');
+      let clickCountDisplayReference = document.querySelector('#clickCountDisplay');
 
-      var clickCount = 0;
+      let clickCount = 0;
 
       clickCountDisplayReference.innerText = clickCount;
 
-      coolButton.addEventListener('click', function() {
+      coolButton.addEventListener('click', function () {
         console.log('Hey, I got clicked!');
 
         clickCount = clickCount + 1;
@@ -185,13 +196,13 @@ Obligatory JS meme
 
 - Intros to [ArcGIS API for JavaScript](https://js.arcgis.com) and [LeafletJS](https://leafletjs.com/)
 
-- Getting started with [JS Bin](https://jsbin.com)
+- Getting started with [CodePen](https://codepen.io)
 
-  - Why? Your browser will block functionality if browsing files directly from hard drive. You must use a web server. JS Bin is interactive and easy to experiment with, just like Python Notebooks.
+  - Why? Your browser will block functionality if browsing files directly from hard drive. You must use a web server. CodePen is interactive and easy to experiment with, just like Python Notebooks.
 
 - **Leaflet exercise**
 
-  1. Copy and paste the contents of `leaflet-demo.html` into a new JS Bin.
+  1. Copy and paste the contents of `leaflet-demo.html` into a new CodePen.
 
   2. Set the map's initial position to be centered at and zoomed to St. Louis.
 
@@ -201,21 +212,15 @@ Obligatory JS meme
 
 - **Esri exercise**
 
-  1. Copy and paste the contents of `esri-demo.html` into a new JS Bin.
+  1. Copy and paste the contents of `esri-demo.html` into a new CodePen.
 
   2. Make the Esri demo into 3D! You can instruct the code to use a [`SceneView`](https://developers.arcgis.com/javascript/latest/api-reference/esri-views-SceneView.html) instead of a `MapView`.
-
-## :octocat: GitHub Pages
-
-GitHub can host your [project website](https://help.github.com/categories/github-pages-basics/) in each repo. You can go from :weary: to :sunglasses: in no time.
 
 ## Resources
 
 - ["Maps in JS" presentation by Gavin Rehkemper](https://github.com/gavinr/presentations/tree/master/src/maps-in-js)
 
 - [ArcGIS API for JavaScript](https://js.arcgis.com)
-
-- [ArcGIS Geodev Hackerlabs](https://github.com/Esri/geodev-hackerlabs)
 
 - [LeafletJS](https://leafletjs.com/) (and optionally the [Esri-Leaflet plugin](https://esri.github.io/esri-leaflet/))
 
@@ -224,7 +229,7 @@ GitHub can host your [project website](https://help.github.com/categories/github
 
 - [The Modern JavaScript Tutorial](https://javascript.info/)
 
-- :cat2: :cat: :cat2: [JavaScript for Cats](http://jsforcats.com/) :cat2: :cat: :cat2:
+- [JavaScript for Cats](http://jsforcats.com/) :cat2: :cat: :cat2:
 
 - [Mozilla Dev Network: JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
