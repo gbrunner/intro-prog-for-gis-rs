@@ -24,7 +24,7 @@ Please submit a Word file or text file that answers the following questions.
 1. What is the version Python that comes with ArcGIS Pro?
 2. Name 3 methods of string objects in Python and give an example of each.
 3. What two values can a boolean take on?
-4.  How do you denote a comment line in Python and what should yo use comments?
+4. How do you denote a comment line in Python and what should yo use comments?
 
 
 # Unit 1 Assignment
