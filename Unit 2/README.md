@@ -13,8 +13,23 @@ Please read Chapters 2 and 3 of [Python Scripting for ArcGIS Pro](https://esripr
 # Lecture Slides
 - Lecture_1_Geoprocessing_and_Python_Window.pptx
 
-# Lecture Notebooks
+# Data and Notebooks
 Lecture notebooks can be found in the [GIS 4090\5090 Unit 2 Notebooks](https://slustl.maps.arcgis.com/home/group.html?id=724c1bfb085843debf8f1020b3654045#overview) group.
+
+- unit_2_lesson_1_geoprocessing_in_arcgis_pro.ipynb
+- unit_2_lesson_1_geoprocessing_in_arcmap.ipynb
+- unit_2_lesson_2_arcpy_in_arcgis_notebooks.ipynb
+- unit_2_lesson_2_arcpy_in_arcgis_pro.ipynb
+- unit_1_lesson_2_more_python.ipynb
+- Missouri.gdb.zip
+
+# Unit 1 Discussion Answers
+- Unit 1 Discussion Answers.txt
+
+# Unit 1 Assignment Answers
+- Unit_1_Assignment_Solutions.py
+- Unit_1_Assignment_Solutions.txt
+- Unit_1_Assignment_Solutions.ipynb 
 
 # Classwork Exercise
 Please complete the following exercises. You do not need to submit anything, but it is recommended that you complete these.
