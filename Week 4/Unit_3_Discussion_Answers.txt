@@ -1,0 +1,34 @@
+<img src="https://learngis.maps.arcgis.com/sharing/rest/content/items/26d7c4ac600d48b59a6c55611f90e83e/data" width="80%" height="80%" />
+
+The **Navigation Bar** allows you to browse the website, open other apps from the app launcher, view help resources, and sign in or out of your profile. It also displays the title of your notebook and indicates whether you have unsaved changes to the notebook. The **Navigation Bar** should present a familiar feel to other apps that you use in ArcGIS Online.
+
+1. Click on the three lines to go to another app in ArcGIS Online. 
+
+<img src="https://learngis.maps.arcgis.com/sharing/rest/content/items/9b19b969d29a4bf09b50fe780c4eff39/data" width="80%" height="80%" />
+
+2. Click on the magnifying glass to search for coent in ArcGIS Online.
+
+<img src="https://learngis.maps.arcgis.com/sharing/rest/content/items/9c14b843e96e4863b8a9dcadbfc1196e/data" width="80%" height="80%" />
+
+3. Click on your user name to go to your user profile.
+
+
+<img src="https://learngis.maps.arcgis.com/sharing/rest/content/items/f28b38d3e3794b11aa5a095687d4735d/data" width="80%" height="80%" />
+
+The **Top Ribbon** allows you to perform various tasks involving your notebook. Let's explore the buttons on on the **Top Ribbon**.
+
+1. Click on the **Add** button. This widget will allow you to search for content and the add that content to your notebook for visualization and analysis. Search for a piece of content and add it to the notebook. For example, you could search for **Landsat** in **Living Atlas**. Once you find the layer, add it to the notebook by clicking the **+** button.
+
+**Screenshot**
+
+<img src="https://learngis.maps.arcgis.com/sharing/rest/content/items/40fe49db2dc7416e9c3824ac98c90bbc/data" width="80%" height="80%" />
+
+The **Notebook Menu Ribbon** contains actions for working directly in your notebook. You use it to add and delete cells, change the notebook appearance, return the notebook to a previous checkpoint, and so on. It also displays whether the notebook is trusted and the version of Python being run. Let's explore this ribbon.
+
+
+
+
+
+<img src="https://learngis.maps.arcgis.com/sharing/rest/content/items/66ece8be82ec42b38bb388e997a99de2/data" width="80%" height="80%" />
+
+The notebook **toolbar** provides quick access to the most commonly used actions from the notebook menu ribbon. Hover over each cell to see the tooltip description. You can file all of these tools somewhere in the **Notebook Menu Ribbon** except for **Enter\Exit RISE Slideshow**. To learn more about the slideshow capabilities, see the [Convert ArcGIS Notebooks to slides](https://s3-us-west-2.amazonaws.com/lp.esri.com/localgovt/LEARN/Videos/Notebooks2.mp4) video in the [Teach with ArcGIS Notebooks lesson path](https://learn.arcgis.com/en/paths/teach-with-arcgis-notebooks/). Go ahead and experiment with the buttons on the **Toolbar**. Try moving cells around. Try cutting and copying cells. Explore the notebook tools!
