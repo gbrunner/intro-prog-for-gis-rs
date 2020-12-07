@@ -3,6 +3,9 @@
 - [Chapter 5 of Python Scripting for ArcGIS Pro](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=384&moduleID=12)
 - [Chapter 6 of Python Scripting for ArcGIS Pro](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=384&moduleID=12)
 
+# Previous Semester Recordings
+## Fall 2020 Recording
+[Zoom recording](https://slu.zoom.us/rec/share/iv0CionXr7sL9J3ShF9tz_XBc5_1HsZfyK4wTB48GoB7YAy5bE4-69Ya9OdFLJfI.kmSyusDlS3A5fzrE?startTime=1599080306000)
 
 # Lecture
 We will begin by setting up our Jupyter Notebook using ArcGIS Pro. Then, we will work with our local jupyter notebook to understand geoprocessing with Python following from Chapter 5 of Python Scripting for ArcGIS Pro and also how to explore data following from Chapter 6 of Python Scripting for ArcGIS Pro.
