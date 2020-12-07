@@ -24,6 +24,11 @@ We will begin by setting up our Jupyter Notebook using ArcGIS Pro. Then, we will
 - [unit_3_lesson_1_environments_and_coordinates_systems.ipynb](https://github.com/gbrunner/intro-prog-for-gis-rs/blob/master/Week%203/unit_3_lesson_1_environments_and_coordinates_systems.ipynb)
 - [unit_3_lesson_1_exploring_spatial_data.ipynb](https://github.com/gbrunner/intro-prog-for-gis-rs/blob/master/Week%203/unit_3_lesson_1_exploring_spatial_data.ipynb)
 
+# Unit 2 Discussion Answers
+Unit_2_Discussion_Solutions.txt
+
+# Unit 2 Assignment Answers
+[In ArcGIS Online](https://slustl.maps.arcgis.com/home/group.html?id=8779763b01f84632b83c084b086325de#overview)
 
 # Unit 3 Exercise and Discussion Questions 
 ## Exercises
