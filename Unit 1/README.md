@@ -20,7 +20,7 @@ Here are the links to the first lecture from last year. This link is not intende
 See the [Welcome.pptx](https://github.com/gbrunner/intro-prog-for-gis-rs/blob/master/Unit%201/Welcome.pptx) and [Unit_1_Slides.pptx](https://github.com/gbrunner/intro-prog-for-gis-rs/blob/master/Unit%201/Lecture_1_Slides.pptx).
 
 # Data and Notebooks
-This week's lecture notebooks can be found in the GIS 4090\5090 Unit 1 Notebooks group on ArcGIS Online or [downloaded here](https://slustl.maps.arcgis.com/home/group.html?id=7ec8ff1c45d94eb28c6c6ddaadcf0333#overview). Please download the Missouri.gdb.zip so that we can use it for the lecture.
+This week's lecture notebooks can be found in the GIS [4090\5090 Unit 1 Notebooks group on ArcGIS Online](https://slustl.maps.arcgis.com/home/group.html?id=7ec8ff1c45d94eb28c6c6ddaadcf0333#overview) or [downloaded here](https://slustl.maps.arcgis.com/home/group.html?id=7ec8ff1c45d94eb28c6c6ddaadcf0333#overview). Please download the Missouri.gdb.zip so that we can use it for the lecture.
 
 # Configuring Jupyter Notebooks
 This document [**configuring_the_notebook_directory.html**]() provides instructions to configure Jupyter Notebooks on your computer. We will go through this process to setup Jupyter Notebooks on your lab computer or personal computer.

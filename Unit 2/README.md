@@ -1,11 +1,35 @@
 # Reading
 Please read Chapters 2 and 3 of [Python Scripting for ArcGIS Pro](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=384&moduleID=12). These two chapters cover Python IDEs and Geoprocessing in ArcGIS Pro. This will set a foundation for much of what we do.
 
+# Previous Semester's Lecture Recordings
+## Spring 2020
+- Part 1: https://slu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d4e94b2a-8e89-47c0-bd5e-ab4f016ea1f8
+- Part 2: https://slu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fc541dcd-68e9-4a2c-8f7a-ab4f017f8ed7
+- Part 3: https://slu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=81b0afd2-d392-4713-8f09-ab50000572f1
+
+## Fall 2020
+[Zoom recording](https://slu.zoom.us/rec/share/vZeqgmDJhjAFZsTEsRL0hrMzQeVUZ8gn_b7iGgb9XOCqCgrPd8ZLfZOOLoQnBw.76gbPmyVceVzPQT5?startTime=1598475480000)
+
 # Lecture Slides
 - Lecture_1_Geoprocessing_and_Python_Window.pptx
 
-# Lecture Notebooks
+# Data and Notebooks
 Lecture notebooks can be found in the [GIS 4090\5090 Unit 2 Notebooks](https://slustl.maps.arcgis.com/home/group.html?id=724c1bfb085843debf8f1020b3654045#overview) group.
+
+- unit_2_lesson_1_geoprocessing_in_arcgis_pro.ipynb
+- unit_2_lesson_1_geoprocessing_in_arcmap.ipynb
+- unit_2_lesson_2_arcpy_in_arcgis_notebooks.ipynb
+- unit_2_lesson_2_arcpy_in_arcgis_pro.ipynb
+- unit_1_lesson_2_more_python.ipynb
+- Missouri.gdb.zip
+
+# Unit 1 Discussion Answers
+- Unit 1 Discussion Answers.txt
+
+# Unit 1 Assignment Answers
+- Unit_1_Assignment_Solutions.py
+- Unit_1_Assignment_Solutions.txt
+- Unit_1_Assignment_Solutions.ipynb 
 
 # Classwork Exercise
 Please complete the following exercises. You do not need to submit anything, but it is recommended that you complete these.
