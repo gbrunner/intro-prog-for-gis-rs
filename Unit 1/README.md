@@ -17,7 +17,7 @@ Here are the links to the first lecture from last year. This link is not intende
 - [Zoom recording](https://slu.zoom.us/rec/play/FeNAZ1ruxVAa3FwrttmrPTxuTHrOyQceStUPoJc9Qj6jpcXRGvwnZcCmVilK10_dbni_oJqzLlYNt_WT.pD2l6-QK2IjXEoiH?continueMode=true&_x_zm_rtaid=oY7Wzfb7TYef6MXTUOGbmQ.1607305401735.4169a61a5e210c03dc5417b54ccddc08&_x_zm_rhtaid=53) - Fast forward 15 minutes to when the class starts.
 
 # Presentations
-See the Welcome.pptx and Unit_1_Slides.pptx.
+See the [Welcome.pptx](https://github.com/gbrunner/intro-prog-for-gis-rs/blob/master/Unit%201/Welcome.pptx) and [Unit_1_Slides.pptx](https://github.com/gbrunner/intro-prog-for-gis-rs/blob/master/Unit%201/Lecture_1_Slides.pptx).
 
 # Data and Notebooks
 This week's lecture notebooks can be found in the GIS 4090\5090 Unit 1 Notebooks group on ArcGIS Online or [downloaded here](https://slustl.maps.arcgis.com/home/group.html?id=7ec8ff1c45d94eb28c6c6ddaadcf0333#overview). Please download the Missouri.gdb.zip so that we can use it for the lecture.
