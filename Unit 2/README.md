@@ -1,6 +1,15 @@
 # Reading
 Please read Chapters 2 and 3 of [Python Scripting for ArcGIS Pro](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=384&moduleID=12). These two chapters cover Python IDEs and Geoprocessing in ArcGIS Pro. This will set a foundation for much of what we do.
 
+# Previous Semester's Lecture Recordings
+## Spring 2020
+- Part 1: https://slu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d4e94b2a-8e89-47c0-bd5e-ab4f016ea1f8
+- Part 2: https://slu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fc541dcd-68e9-4a2c-8f7a-ab4f017f8ed7
+- Part 3: https://slu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=81b0afd2-d392-4713-8f09-ab50000572f1
+
+## Fall 2020
+[Zoom recording](https://slu.zoom.us/rec/share/vZeqgmDJhjAFZsTEsRL0hrMzQeVUZ8gn_b7iGgb9XOCqCgrPd8ZLfZOOLoQnBw.76gbPmyVceVzPQT5?startTime=1598475480000)
+
 # Lecture Slides
 - Lecture_1_Geoprocessing_and_Python_Window.pptx
 
