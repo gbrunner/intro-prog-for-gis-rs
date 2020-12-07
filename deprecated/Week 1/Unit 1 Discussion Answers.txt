@@ -1,0 +1,8 @@
+1. Python 3.6.x - Depends on version of Pro
+2. Three examples:
+a. .lower() 
+b. .index() 
+c. .upper() 
+CamelCase'
+3. True & False
+4. # 
