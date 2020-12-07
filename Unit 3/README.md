@@ -18,7 +18,9 @@ We will begin by setting up our Jupyter Notebook using ArcGIS Pro. Then, we will
 - coordinates.txt
 
 # Lecture Notebooks
-- Getting setup with Jupyter for ArcGIS Pro.
+- unit_3_lesson_1_exploring_spatial_data.ipynb
+- unit_3_lesson_2_environments_and_coordinates_systems.ipynb
+- unit_3_lesson_3_text_files_and_csvs.ipynb
 - [unit_3_lesson_1_environments_and_coordinates_systems.ipynb](https://github.com/gbrunner/intro-prog-for-gis-rs/blob/master/Week%203/unit_3_lesson_1_environments_and_coordinates_systems.ipynb)
 - [unit_3_lesson_1_exploring_spatial_data.ipynb](https://github.com/gbrunner/intro-prog-for-gis-rs/blob/master/Week%203/unit_3_lesson_1_exploring_spatial_data.ipynb)
 
