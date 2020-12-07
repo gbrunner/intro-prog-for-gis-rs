@@ -23,6 +23,9 @@ Lecture notebooks can be found in the [GIS 4090\5090 Unit 2 Notebooks](https://s
 - unit_1_lesson_2_more_python.ipynb
 - Missouri.gdb.zip
 
+# Getting Data into ArcGIS Notebooks
+[Go through this example to demonstrate how to get data into ArcGIS Notebooks.](https://slustl.maps.arcgis.com/home/group.html?id=8779763b01f84632b83c084b086325de#overview). It uses the Singapore_Data.gdb.zip.
+
 # Unit 1 Discussion Answers
 - Unit 1 Discussion Answers.txt
 
