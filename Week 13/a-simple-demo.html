@@ -27,6 +27,14 @@
     Hello, World! (I'm an "h1" element).
   </h1>
 
+  <h2>
+    Subtitle (I'm an "h2" element).
+  </h2>
+
+  <p>
+    Hello, World! (I'm a "p" element.)
+  </p>
+
   <p class="green">
     Hello, World! (I'm a "p" element with a CSS class.)
   </p>
@@ -43,9 +51,11 @@
     This is a link that will open in another window.
   </a>
 
-  <div>
-    Here is a "button" element followed by a "p" element, both of which are inside of a "div" element.
+  <p>
+    Next are a "button" element followed by a "p" element, both of which are inside of a "div" element.
+  </p>
 
+  <div>
     <button id="coolButton">
       Increase the "clickCount" JavaScript variable.
     </button>
@@ -56,15 +66,15 @@
   <script>
     // this is a JavaScript comment
 
-    var coolButtonReference = document.getElementById('coolButton');
+    let coolButtonReference = document.querySelector('#coolButton');
 
-    var clickCountDisplayReference = document.getElementById('clickCountDisplay');
+    let clickCountDisplayReference = document.querySelector('#clickCountDisplay');
 
-    var clickCount = 0;
+    let clickCount = 0;
 
     clickCountDisplayReference.innerText = clickCount;
 
-    coolButton.addEventListener('click', function() {
+    coolButton.addEventListener('click', function () {
       console.log('Hey, I got clicked!');
 
       clickCount = clickCount + 1;

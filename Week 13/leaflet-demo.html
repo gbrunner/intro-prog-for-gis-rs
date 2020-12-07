@@ -7,7 +7,7 @@
   <title>Leaflet Demo</title>
 
   <!-- Load Leaflet CSS from CDN -->
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
 
   <style>
     body {
@@ -28,18 +28,18 @@
   <div id="mapDiv"></div>
 
   <!-- Load Leaflet JavaScript from CDN -->
-  <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 
   <!-- Load Esri-Leaflet plugin from CDN -->
-  <script src="https://unpkg.com/esri-leaflet@2.2.4/dist/esri-leaflet.js"></script>
+  <script src="https://unpkg.com/esri-leaflet@2.5.1/dist/esri-leaflet.js"></script>
 
   <script>
-    var map = L.map('mapDiv');
+    let map = L.map('mapDiv');
 
     // latitude, longitude, followed by zoom level
     map.setView([65, 15], 4)
 
-    var basemap = L.esri.basemapLayer('Streets');
+    let basemap = L.esri.basemapLayer('Streets');
 
     basemap.addTo(map);
   </script>
