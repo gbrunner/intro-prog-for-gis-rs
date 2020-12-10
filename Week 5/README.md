@@ -1,6 +1,10 @@
 # Video
 Please watch the following video on [ArcPy: Working with Feature Data](https://www.youtube.com/watch?v=AtRfmQ5MlKo) from Esri's annual developer summit.
 
+# Previous Lecture Recordings
+- [Spring 2020](https://slu.zoom.us/rec/play/hNA-7D5S8COI8vjjn8ouYyuIvUsBTAVZ7C0Y_LTOniYIPHed8rCgUIaG1Woc9sv6dCWgjYrUr5ZwF8V0.UYos0ySuFoLl1ss4?startTime=1600289846000&_x_zm_rtaid=k7nplDLZQdOV4FWpslE7Ng.1607564502996.e335558ac728a12721f4c0d0f8d8c9ca&_x_zm_rhtaid=579)
+- [Fall 2020](https://slu.zoom.us/rec/share/Xn-hkHLmRpBRJ3dVEqa-nT7waTycRB7m51OrUEj9Fh7k_7sbZnF_jumr0N-R4fAD.IshwwJjam14dBpbx?startTime=1600289846000)
+
 # Reading
 - [Chapter 9 of Python Scripting for ArcGIS Pro](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=384&moduleID=12)
 
