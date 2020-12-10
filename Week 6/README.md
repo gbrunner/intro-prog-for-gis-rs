@@ -22,24 +22,27 @@ Pitch your final prroject on the Blackboard Discussion.
 Read and comment on two other students proposals.
 Due in 2 weeks.
 
-# Homework (Don't forget to include the data)
-**Challenge 1**
+# Unit 6 Exercise and Discussion Questions 
+## In class exercise
+Compete exercises for Chapter 10 of Python Scripting for ArcGIS Pro
+Exercise: https://www.arcgis.com/home/item.html?id=1372abc4fb0c4ff0a7c66e8d9c869038
+Data: https://www.arcgis.com/home/item.html?id=862c63f5a50e4a29bb237369a9854838
+
+## Questions
+1. What is a "Raster" object, and why do geoprocessing operations and map algebra expressions using rasters often result in temporary outputs?
+2. What are the differences between raster datasets and raster bands?
+3. What is the difference between raster functions in ArcGIS Pro and their equivalent functions in arcpy.sa or arcpy.ia?
+
+# Unit 6 Assignment 
+## Challenge 1
 Create a script that determines what areas meet the following conditions:
 - Moderate slope: between 5 and 20 degrees
 - Southerly aspect: between 150 and 270 degrees
 - Forested: land cover types of 41, 42, or 43
 Be sure to use the map algebra expressions of the ```arcpy.sa``` module.
 
-**Challenge 2**
-Write a script that copies all the rasters in a workspace to a new file geo-database. Use the data from **Exercise 10** that you used for the **In-class** exercise.
-
-
-## Caveat Emptor for Challenge 2
----------------------------------------------------------------------------
-AttributeError                            Traceback (most recent call last)
-c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Conversion Tools.tbx#RasterToGeodatabase_conversion.InitializeParameters.py in <module>
-
-AttributeError: 'ToolValidator' object has no attribute 'isLicensed'
+## Challenge 2
+Write a script that copies all the rasters in a workspace to a new file geo-database. You can use the rasters in the **Exercise09** folder as an example. If you do Challenge 2, you may get an error:
 
 ---------------------------------------------------------------------------
 AttributeError                            Traceback (most recent call last)
@@ -47,3 +50,11 @@ c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Conversion Tools.tbx#
 
 AttributeError: 'ToolValidator' object has no attribute 'isLicensed'
 
+---------------------------------------------------------------------------
+AttributeError                            Traceback (most recent call last)
+c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Conversion Tools.tbx#RasterToGeodatabase_conversion.InitializeParameters.py in <module>
+
+AttributeError: 'ToolValidator' object has no attribute 'isLicensed'
+
+
+**If you get this error, check to see whether the tool worked anyway!**
