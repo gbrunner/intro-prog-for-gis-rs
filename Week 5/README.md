@@ -8,6 +8,11 @@ Please watch the following video on [ArcPy: Working with Feature Data](https://w
 # Reading
 - [Chapter 9 of Python Scripting for ArcGIS Pro](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=384&moduleID=12)
 
+# Unit 4 Homework Solutions
+- exercise07_solutions.html
+- unit_4_solutions.ipynb
+- unit_4_questions.docx 
+
 # Lecture
 In this lecture, we will learn about geometry objects. Geometries are the shapes of features. We will see how to extract them, manipulate them, and the different formats they are stored in.
 
@@ -29,11 +34,14 @@ This document gives coding conventions for the Python code comprising the standa
 - week_6_geometries.ipynb
 - week_6_geometries.html 
 
+# Slides
+- unit_5_slides.pptx
+
 # Lecture Notebooks
 - [unit_5_lesson_1_geometries.ipynb]()
 
 # In-Class Exercises
-Please complete [Exercise 9 from Python Scripting for ArcGIS Pro](https://learngis.maps.arcgis.com/home/item.html?id=f8e466f8f2c2481f9a3c820ccfc1c35f). You can find the data [here](https://learngis.maps.arcgis.com/home/item.html?id=ce6ad466cd064a7099ee65de7bba3a49).
+Please complete [Exercise 9 from Python Scripting for ArcGIS Pro](https://learngis.maps.arcgis.com/home/item.html?id=f8e466f8f2c2481f9a3c820ccfc1c35f). You can find the data [here](https://learngis.maps.arcgis.com/home/item.html?id=ce6ad466cd064a7099ee65de7bba3a49). I recommend trying this in an Jupyter notebook rather than IDLE. Please submit the notebook if you do this in Jupyter. Submit the Python scripts if you do it in IDLE or PyCharm.
 
 # Homework Questions
 There will be no homework questions this week. Please complete Project 1.
