@@ -1,3 +1,14 @@
+# Watch this video
+https://www.youtube.com/watch?v=pYHWoSNsSIU&feature=youtu.be
+
+# Greg's links
+- [JSAPI Code Samples](https://developers.arcgis.com/javascript/latest/sample-code/index.html)
+- [Esr Hackerlabs](https://github.com/Esri/geodev-hackerlabs)
+- [JSBin](https://jsbin.com/?html,output)
+- Optional Assignment - This is optional. If you want to learn more about Javascript and the ArcGIS JSAPI, complete the following two lessons. Copy and past the code into text files and submit the text files.
+  - [Create a starter app](https://developers.arcgis.com/labs/javascript/create-a-starter-app/)
+  - [Add layers to a map](https://developers.arcgis.com/labs/javascript/add-layers-to-a-map/)
+
 # Web Mapping Development Intro
 
 Jacob Wasilkowski
