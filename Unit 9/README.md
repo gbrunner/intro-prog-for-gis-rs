@@ -28,4 +28,5 @@ Check these out before class:
 
 # Unit 9 Exercise and Discussion Questions
 Please complete this tutorial: Teach Web GIS with ArcGIS Notebooks: https://www.arcgis.com/home/item.html?id=a25c49feb0564827a506ee8ae541a6fd#
+
 If you need help getting started, take a look at Hello, Notebook! which was assigned during week 1.
