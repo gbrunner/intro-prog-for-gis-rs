@@ -1,5 +1,8 @@
 # [Teaching with ArcGIS Notebooks](https://learn.arcgis.com/en/paths/teach-with-arcgis-notebooks/)
 
+# Previous Year's Recordings
+- [Fall 2020](https://slu.zoom.us/rec/play/8yWKltzmA8QoyNlEMyb6TzGG3nAfcIhj0Uu3iFnwySlJsZh8BN7sIoYaP_DWikEy7cB-wJiwhcVwr5ef.sL6F-1DxZChdcP6F?startTime=1601499233000&_x_zm_rtaid=zm-zJ_rzSxmT4kO2ip8ayQ.1607655790439.f38412494adf72fbc4a7b032e2af6420&_x_zm_rhtaid=779)
+
 # Project 1 Solutions
 - Project 1 Solutions - Spring 2020.html
 - Project 1 Solutions - Spring 2020.ipynb
