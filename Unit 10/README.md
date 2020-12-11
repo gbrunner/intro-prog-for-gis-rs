@@ -2,6 +2,9 @@
 1. [ArcGIS API for Python: Introduction to Scripting your Web GIS](https://www.youtube.com/watch?v=WSXzlpVZM50)
 2. [ArcGIS Python API for Administrators and Content Publishers](https://www.youtube.com/watch?v=4AzOodYTHs4)
 
+# Previous Year's Recordings
+- [Fall 2020](https://slu.zoom.us/rec/play/33ei1ykSEyB01JwEtcKn1ZSjElqJ8C-2rYgSzBhe81F79CjavYHdVA3XIIJIEVANcGiz-KvAgzxBtGDx.y_GP0XuZag1mH2s-?startTime=1603314057000&_x_zm_rtaid=zm-zJ_rzSxmT4kO2ip8ayQ.1607655790439.f38412494adf72fbc4a7b032e2af6420&_x_zm_rhtaid=779)
+
 # Lecture
 ## Next 2 Projects
 Let's talk about Projects 2 and 3, and 4?
