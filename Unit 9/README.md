@@ -12,9 +12,9 @@ Check these out before class:
 - profile_pic.jpg
 
 # Notebooks
-- week_10_lecture_1_map_widget.ipynb
-- week_10_lecture_2_basemaps_and_more.ipynb
-- week_10_lecture_3_geocoding.ipynb
+- unit_9_lecture_1_map_widget.ipynb
+- unit_9_lecture_2_basemaps_and_more.ipynb
+- unit_9_lecture_3_geocoding.ipynb
 
 # [Unit 9 ArcGIS Notebooks on ArcGIS Online](https://slustl.maps.arcgis.com/home/group.html?id=ac0ae1633bbf4d06bb07c68ce4eb55ec#overview)
 
