@@ -1,6 +1,9 @@
 # This Week's Reading
 If you have Advanced Python Scripting for ArcGIS Pro, please read Chapter 2 on functions and classes.
 
+# Previous Year's Recordings
+- [Fall 2020](https://slu.zoom.us/rec/play/ywA12NppEnjg9HdGp3DN4DuQQod0SGeq28fU6d6aki5aluh_PNYzuvEOo-6E-pW_xQ5AhvVVdnCE5oI7.u5rl0Ke2Ugb9_W6y?startTime=1602104048000&_x_zm_rtaid=zm-zJ_rzSxmT4kO2ip8ayQ.1607655790439.f38412494adf72fbc4a7b032e2af6420&_x_zm_rhtaid=779)
+
 # Unit 7 Assignment Solutions
 - random_sample.py
 - RandomTools.tbx
