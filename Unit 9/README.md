@@ -4,6 +4,9 @@ Check these out before class:
 2. [ArcGIS API for Python: Advanced Scripting](https://www.youtube.com/watch?v=6hx0EpIKIj8)
 3. [ArcGIS API for Python: Mapping, Visualization, and Analysis](https://www.youtube.com/watch?v=mKjyeesUr80)
 
+# Previous Year's Recordings
+- [Fall 2020](https://slu.zoom.us/rec/play/FVH0Lb-zwohyLC0Wfgk_27QRWLXQ8jp01IHsizULwhhbzDEnODArsH3x4dWRQbQ-JroOMPgJe_v3jO8z.Ji7ynDpixtFWz37w?startTime=1602104048000&_x_zm_rtaid=zm-zJ_rzSxmT4kO2ip8ayQ.1607655790439.f38412494adf72fbc4a7b032e2af6420&_x_zm_rhtaid=779)
+
 # Data
 - all_week_aug_13_20.csv 
 - chennai-rainfall.csv 
