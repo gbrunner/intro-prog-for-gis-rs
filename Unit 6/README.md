@@ -1,6 +1,9 @@
 # Video
 [AWS re:Invent 2017: How Esri Optimizes Massive Image Archives for Analytics in the Cloud](https://www.youtube.com/watch?reload=9&v=U486YxlDoeM)
 
+# Previous Year's Lecture Recordings
+## [Fall 2020](https://slu.zoom.us/rec/play/sQpqa49bkamXCndF8fFowQLA-Q0dfTDnt5V4_crPJ_BQAohd8r8QRiARAteB6-_vCAg7HK7zS-9eb3gw.U7IL4813ozLnb-hc?startTime=1600894614000&_x_zm_rtaid=zm-zJ_rzSxmT4kO2ip8ayQ.1607655790439.f38412494adf72fbc4a7b032e2af6420&_x_zm_rhtaid=779)
+
 # Reading
 [Chapter 10 of Python Scripting for ArcGIS Pro](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=384&moduleID=0)
 
