@@ -23,3 +23,31 @@ Let's talk about Projects 2 and 3, and 4?
 8. Create a new *Group*.
 9. Invite the students.
 10. Add Content to the *Group*.
+
+# [Lecture Notebooks in ArcGIS Online](https://slustl.maps.arcgis.com/home/group.html?id=dd378276497c4d9994ffc50be5c15d8d#overview)
+This lecture will be done using ArcGIS Notebooks.
+
+# Data
+- all_week_aug_13_20.csv
+- me.gif
+- Oklahoma_City_Thunder.png
+- profile_pic.jpg
+
+# Helpful Links
+- [ArcGIS API for Python Documentation](https://developers.arcgis.com/python/)
+- [ArcGIS API for Python Samples](https://developers.arcgis.com/python/sample-notebooks/)
+- [ArcGIS API for Python Reference](https://developers.arcgis.com/python/api-reference/)
+
+# Unit 10 Exercise and Discussion Questions
+
+## Homework Problems:
+
+1. Create a new Jupyter Notebook or ArcGIS Notebook that:
+    - Contains a map.
+    - Zooms to a particular city of interest.
+    - Changes the basemap from the default Terrain basemap.
+    - Please use Markdown to apply meaningful descriptions of your steps.
+    - Contains at least 3 layers, not including the basemap.
+
+
+2. Using the ArcGIS API for Python and following from the examples in class, geocode the addresses in the **addresses.csv**. Add them to a map. Save the map as a webmap. What is the common theme among the addresses?
