@@ -1,0 +1,45 @@
+<PAMDataset>
+  <Subdataset name="GRIB:&quot;C:\Users\greg6750\Documents\IPython Notebooks\developing-with-imagery\Week 5\ds.temp.bin&quot;:1">
+    <PAMDataset>
+      <Metadata domain="GRIB_GEOREF">
+        <MDI key="GCS">GEOGCS["GCS_Coordinate_System_imported_from_GRIB_file",DATUM["D_unknown",SPHEROID["Sphere",6371200,0]],PRIMEM["Greenwich",0],UNIT["Degree",0.0174532925199433]]</MDI>
+        <MDI key="PCS">PROJCS["Lambert_Conformal_Conic_2SP",GEOGCS["GCS_Coordinate_System_imported_from_GRIB_file",DATUM["D_unknown",SPHEROID["Sphere",6371200,0]],PRIMEM["Greenwich",0],UNIT["Degree",0.0174532925199433]],PROJECTION["Lambert_Conformal_Conic"],PARAMETER["standard_parallel_1",25],PARAMETER["standard_parallel_2",25],PARAMETER["latitude_of_origin",25],PARAMETER["central_meridian",265],PARAMETER["false_easting",0],PARAMETER["false_northing",0],UNIT["Meter",1]]</MDI>
+        <MDI key="Y_IS_MIN">TRUE</MDI>
+      </Metadata>
+      <Metadata>
+        <MDI key="GRIB_COMMENT">Temperature [K]</MDI>
+        <MDI key="GRIB_ELEMENT">T</MDI>
+        <MDI key="GRIB_FORECAST_SECONDS">21600 sec</MDI>
+        <MDI key="GRIB_LONG_NAME">2[m] HTGL="Specified height level above ground"</MDI>
+        <MDI key="GRIB_REF_TIME">1568764800 sec UTC</MDI>
+        <MDI key="GRIB_SHORT_NAME">2:HTGL:m</MDI>
+        <MDI key="GRIB_UNIT">[K]</MDI>
+        <MDI key="GRIB_VALID_TIME">1568786400 sec UTC</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Description>2:HTGL:m [Sep 18 06:00:00 2019
+]</Description>
+        <Histograms>
+          <HistItem>
+            <HistMin>269.8299865722656</HistMin>
+            <HistMax>305.0299987792969</HistMax>
+            <BucketCount>256</BucketCount>
+            <IncludeOutOfRange>1</IncludeOutOfRange>
+            <Approximate>0</Approximate>
+            <HistCounts>2|0|9|0|0|17|0|0|23|0|0|57|0|0|103|0|0|199|0|0|343|0|0|428|0|0|427|0|473|0|0|535|0|0|739|0|0|809|0|0|960|0|0|1002|0|0|1169|0|0|1384|0|0|1451|0|0|1658|0|1981|0|0|2099|0|0|2505|0|0|2307|0|0|2446|0|0|2702|0|0|2993|0|0|3514|0|0|3349|0|0|3796|0|3743|0|0|3926|0|0|4746|0|0|4073|0|0|4059|0|0|4054|0|0|3953|0|0|4402|0|0|3956|0|0|4285|0|4239|0|0|4665|0|0|5212|0|0|4558|0|0|4639|0|0|5401|0|0|5358|0|0|6687|0|0|7118|0|8232|0|0|9386|0|0|10231|0|0|9537|0|0|7455|0|0|7732|0|0|8430|0|0|6452|0|0|7604|0|0|6726|0|5572|0|0|4973|0|0|5359|0|0|5917|0|0|5589|0|0|6812|0|0|8041|0|0|9087|0|0|12300|0|0|9821|0|9183|0|0|6112|0|0|3650|0|0|1936|0|0|1182|0|0|932|0|0|1231|0|0|2490|0|0|3517|0|0|2306|0|4962|0|0|4298|0|0|598|0|0|97|0|0|95|0|0|76|0|0|39|0|0|7|0|0|2|0|0|1</HistCounts>
+          </HistItem>
+        </Histograms>
+        <Metadata>
+          <MDI key="STATISTICS_COVARIANCES">42.4209209054746</MDI>
+          <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+          <MDI key="STATISTICS_MAXIMUM">305.0299987793</MDI>
+          <MDI key="STATISTICS_MEAN">290.22151156323</MDI>
+          <MDI key="STATISTICS_MINIMUM">269.82998657227</MDI>
+          <MDI key="STATISTICS_SKIPFACTORX">3</MDI>
+          <MDI key="STATISTICS_SKIPFACTORY">2</MDI>
+          <MDI key="STATISTICS_STDDEV">6.513134491585</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+</PAMDataset>
