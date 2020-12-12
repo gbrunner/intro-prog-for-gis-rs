@@ -1,21 +1,21 @@
-# Course Description (Modified from what is listed in the Course Catalog):
+# Course Description
 This course will introduce students to Python programming and its applications to remote sensing and GIS. Through completing this course, students will be able to use Python to perform common GIS and remote sensing analysis tasks, automate workflows, and develop custom Python tools. Topics will include describing data, manipulating data, automating spatial analysis tasks, creating Python scripts and tools, and using Python for imagery analysis. We will also introduce students to WebGIS and how Python can be used to interface with data that is shared online.
 
-# Course Objectives:
+# Course Objectives
 - 	Students will learn Python and understand how to use it to solve problems in GIS and Remote Sensing and will demonstrate their knowledge by completing multiple homework assignments and projects.
 - 	Students will be encouraged to use Python through relevant examples and assignments.
 - 	Students will begin implementing it in their own research projects such as theses and capstones.
 
 
-# Materials:
+# Materials
 Course Materials will be shared using Blackboard. Slides, labs, and homework are in the folders that correspond to the specific units covered in class.
 
-# Texts:
+# Texts
 - (Primary Textbook) Paul A Zandenbergen. [Python Scripting for ArcGIS Pro.](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=393&moduleID=0) ISBN: 9781589484993. $79.99
 - (Recommended) Paul A Zandenbergen. [Advanced Python Scripting for ArcGIS Pro.](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=384&moduleID=12) ISBN: 9781589486188. $79.99
 - (Optional) Laura Tateosian. Python for ArcGIS. ISBN 978-3-319-18398-5. $99.00
 
-# Grading:
+# Grading
 1.	15% - Lab Work & Programming Exercises
 2.	15% - Homework Assignments
 3.	20% - Project 1
