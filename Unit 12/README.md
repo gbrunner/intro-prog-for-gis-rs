@@ -5,8 +5,8 @@ Read the following sections of the Python Data Science Handbook.
 - [Scatter Plots](https://jakevdp.github.io/PythonDataScienceHandbook/04.02-simple-scatter-plots.html)
 
 # Previous Year's Lectures
-- [Fall 2020]()
-- [Spring 2020]()
+- [Fall 2020](https://slu.zoom.us/rec/share/5cmHSjpiH988Y0VWdrq1URMZfw93yLRKXQaKcrLMH4RDg_zTZE0weTvNXxQDRMWu.6gI_VI59csgIbZdl?startTime=1604526396000)
+- [Spring 2020](https://slu.zoom.us/rec/share/r-laujXh9lXrH0dYszy2p3Av0P8Bu0n5knYyBZkpxkWDchwu06a6wwWsN-cCICwe.9Wtputena3rxDkng?startTime=1587416758000)
 
 # Data for Unit 12 Lectures
 - SENZA_0_SUNAA_0_CORN.xlsx
