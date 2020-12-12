@@ -1,6 +1,10 @@
 # Working with Image Services
 - [This weeks notebooks are in ArcGIS Online as ArcGIS Notebooks](https://slustl.maps.arcgis.com/home/group.html?id=8924b798d1884dd1b86d9f3ec73e13fe#overviewIS%204090\5090)
 
+# Previous Year's Lexctures
+- Fall 2020: [Part 1](https://slu.zoom.us/rec/share/qSK0U3_c7_TFtMCICgBoflQKADQeRWXv9tCA29gQ6qaUGVytxozrkyc2VbTxsWAn.ZGCiCWw7bDtmGjyh?startTime=1605736770000) and [Part 2](https://slu.zoom.us/rec/share/qSK0U3_c7_TFtMCICgBoflQKADQeRWXv9tCA29gQ6qaUGVytxozrkyc2VbTxsWAn.ZGCiCWw7bDtmGjyh?startTime=1605741203000)
+- [Spring 2020](https://slu.zoom.us/rec/share/2HHDMs-SPt0FzJgZLdJfuJ-kt301BHK_htQcNpHKhC5SdV9xpYMruOmKclRFWQtz.dOTafNgJAfNaXcwy?startTime=1588021338000)
+
 # This week's lesson plan
 ## Lecture 1 - Image Services with ArcGIS Online
 1. Show using the Landsat Service in ArcGIS Online.
