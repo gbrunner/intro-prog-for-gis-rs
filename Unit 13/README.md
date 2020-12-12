@@ -1,6 +1,9 @@
 # Watch this video
 https://www.youtube.com/watch?v=pYHWoSNsSIU&feature=youtu.be
 
+# Previous Year's Lectures
+- [Fall 2020 with Jacob Wasilkowski](https://slu.zoom.us/rec/share/71y8sXI1Yg7klmWTmMxUMGVksm4Sj5ApBTLVIZGxddYGzkZyLr_uCW81mmCB4-bR.IqrEK-AsH5HJLAFc?startTime=1605131673000)
+
 # Greg's links
 - [JSAPI Code Samples](https://developers.arcgis.com/javascript/latest/sample-code/index.html)
 - [Esr Hackerlabs](https://github.com/Esri/geodev-hackerlabs)
