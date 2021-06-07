@@ -40,10 +40,10 @@ You can also access them through: https://landsat-pds.s3.amazonaws.com/c1/L8/046
 
 Using Python, create the following raster products:
 
-1. Calculate the NDVI of the scene (10 points)
-2. Calculate the SAVI of the scene (10 points)
-3. Using Composite Bands, create a 3 band R-G-B image from bands 2, 3, and 4 (10 points)
-4. Using Composite Bands, create a false color infrared image from bands 3, 4, 5 (10 points)
+1. [Calculate the NDVI of the scene (10 points)](https://www.usgs.gov/core-science-systems/nli/landsat/landsat-normalized-difference-vegetation-index?qt-science_support_page_related_con=0#qt-science_support_page_related_con)
+2. [Calculate the SAVI of the scene (10 points)](https://www.usgs.gov/core-science-systems/nli/landsat/landsat-soil-adjusted-vegetation-index#:~:text=This%20image%20displays%20a%20(left,Adjusted%20Vegetation%20Index%20(SAVI).&text=SAVI%20is%20used%20to%20correct,where%20vegetative%20cover%20is%20low.)
+3. Using [Composite Bands](https://pro.arcgis.com/en/pro-app/latest/tool-reference/data-management/composite-bands.htm), create a 3 band R-G-B image from [bands 2, 3, and 4 (10 points)](https://gisgeography.com/landsat-8-bands-combinations/)
+4. Using [Composite Bands](https://pro.arcgis.com/en/pro-app/latest/tool-reference/data-management/composite-bands.htm), create a false color infrared image from [bands 3, 4, 5 (10 points)](https://gisgeography.com/landsat-8-bands-combinations/)
 
 Be sure to save the resulting rasters to disk as TIF files. Please create a clear, well-documented script or notebook. The readability will be graded out of 10 points.
 
